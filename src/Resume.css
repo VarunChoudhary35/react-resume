@@ -1,0 +1,71 @@
+.box-1{
+    height: 145px;
+    padding: 10px;
+    background-color: #222a33;
+}
+.head-1{
+    color: rgb(214, 212, 212);
+}
+.head-2{
+    color: rgb(114, 113, 124);
+
+}
+.mlogo{
+    position: relative;
+    top: -25px;
+    width: 100px;
+    height: 50px;
+}
+.mypic{
+    position: relative;
+    left: 250px;
+    top: 5%;
+    width: 143px;
+    height: 109px;
+    border-radius: 50%;
+}
+.box-2{
+    color: white;
+    padding: 10px;
+    background-color: #313c4e;
+}
+.box-2 .container .row .col-md a{
+    color: white;
+}
+.skill-name{
+    padding: 20px;
+}
+.text-1{
+    color: #16b5e8;
+    text-size-adjust: auto;
+    font-size: xx-large;
+    text-decoration-line: underline;
+    font-family: 'Oswald', sans-serif;
+}
+.text-2{
+    font-size: larger;
+    font-weight: bold;
+}
+.text-3{
+    font-weight: 500;
+    ;
+}
+.text-4 ul{
+    margin-left: 50px;
+}
+.text-4 li{
+    color: #3375e0;
+    margin: -9px;
+    font-style: italic;
+    font-family: revert;
+    font-size: smaller;
+}
+.property-tab button{
+    margin: 10px;
+    background-color: #315da5;
+}
+.footer{
+    color: grey;
+    text-align: center;
+    background-color: #222a33;
+}
